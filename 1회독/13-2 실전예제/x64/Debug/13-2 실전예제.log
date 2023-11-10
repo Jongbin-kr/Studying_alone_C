@@ -1,0 +1,4 @@
+﻿  13-2실전.c
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\13-2 실전예제\13-2실전.c(25,10): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\13-2 실전예제\13-2실전.c(27,10): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+  13-2 실전예제.vcxproj -> C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\13-2 실전예제\x64\Debug\13-2 실전예제.exe

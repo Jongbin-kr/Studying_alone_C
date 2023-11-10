@@ -1,0 +1,4 @@
+﻿  10.c
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\11\10.c(14,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\11\10.c(5,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  11.vcxproj -> C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\11\x64\Debug\11.exe
