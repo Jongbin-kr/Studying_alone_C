@@ -1,0 +1,16 @@
+﻿  15-1.c
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(62,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(62,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(63,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[5]'입니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(63,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int (*)[5]' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(64,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(64,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(65,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[5]'입니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(65,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int (*)[5]' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(66,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(66,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(66,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(66,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(102,10): warning C4047: '=': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\15-1.c(104,10): warning C4047: '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+  15-1.vcxproj -> C:\Users\dieyo\OneDrive - 고려대학교\개인 공부\혼공C\15-1\x64\Debug\15-1.exe
