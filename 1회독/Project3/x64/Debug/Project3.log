@@ -1,0 +1,4 @@
+﻿  3-2.c
+D:\OneDrive - 고려대학교\개인 공부\혼공C\Project3\3-2.c(33,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+D:\OneDrive - 고려대학교\개인 공부\혼공C\Project3\3-2.c(33,8): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+  Project3.vcxproj -> D:\OneDrive - 고려대학교\개인 공부\혼공C\Project3\x64\Debug\3.exe
